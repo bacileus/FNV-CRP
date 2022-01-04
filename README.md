@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v1.2
+Forwarded more ALT Tweaks
 ### v1.1
 Forwarded ALT Tweaks & added Lbs. to Willows Leather Backpack
 ### v1.0
