@@ -1,9 +1,14 @@
 # FNV-CRP
 ## Changelog
+### v1.4
+Forwarded more ALT changes
+### v1.3
+Solved compatibility issues with new Alternate combat armor with sleeves
+Forwarded more ALT changes
 ### v1.2
-Forwarded more ALT Tweaks
+Forwarded more ALT changes
 ### v1.1
-Forwarded ALT Tweaks & added Lbs. to Willows Leather Backpack
+Forwarded ALT changes & added Lbs. to Willows Leather Backpack
 ### v1.0
 Added Willow's Novac Bungalow to SafeCells
 ### v0.7
