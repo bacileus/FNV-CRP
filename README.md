@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v1.5
+Updated Character Expansions Revised
 ### v1.4
 Forwarded more ALT changes
 ### v1.3
