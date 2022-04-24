@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v1.6
+Removed unwanted chains from JIP Distributed Chains & Necklaces
+Silent B42 Quickthrow NPC
 ### v1.5
 Updated Character Expansions Revised
 ### v1.4
