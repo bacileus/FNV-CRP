@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v0.3
+- Forwarded YUP fixes overwritten by T4 & Modest T4
 ### v0.2
 - Patched YUP and Weapon Retexture Project
 ### v0.1
