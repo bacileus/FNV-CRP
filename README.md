@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v0.32
+- Fix Republican Outfit having wrong gloves
 ### v0.31
 - Fix Rough Nite Replacer
 ### v0.3
