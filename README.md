@@ -3,6 +3,7 @@
 ### v0.4
 - Restored original weapon degradation (changed by JSawyer Push's Tweaks)
 - v0.41: Patched Armor section of JSawyer's (conflicts with T4, T4 Modest & Combat Armor Sleeves)
+- v0.42: Fixed conflicts between DNWeathers, WMIM & JSawyer
 ### v0.3
 - Forwarded YUP fixes overwritten by T4 & Modest T4
 - v0.31: Fix Rough Nite Replacer
