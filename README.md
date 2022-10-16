@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v0.4
+- Restored original weapon degradation (changed by JSawyer Push's Tweaks)
 ### v0.32
 - Fix Republican Outfit having wrong gloves
 ### v0.31
