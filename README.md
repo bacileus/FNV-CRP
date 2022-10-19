@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v0.5
+- Fixed conflicts with Uncut Wasteland & Character Expansions Revised.
 ### v0.4
 - Restored original weapon degradation (changed by JSawyer Push's Tweaks)
 - v0.41: Patched Armor section of JSawyer's (conflicts with T4, T4 Modest & Combat Armor Sleeves)
