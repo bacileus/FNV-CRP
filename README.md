@@ -1,9 +1,10 @@
 # FNV-CRP
 ## Changelog
 ### v0.5
-- Fixed conflicts with Uncut Wasteland & Character Expansions Revised.
+- Fixed conflicts with Uncut Wasteland & Character Expansions Revised
 - v0.51: Added Mojave Raiders
 - {HOT ADDON}: Merged YUP fixes with Tribal Fixes
+- v0.52: Edited 1 minor conflict between Vurt's Flora & TLD
 ### v0.4
 - Restored original weapon degradation (changed by JSawyer Push's Tweaks)
 - v0.41: Patched Armor section of JSawyer's (conflicts with T4, T4 Modest & Combat Armor Sleeves)
