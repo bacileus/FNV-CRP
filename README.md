@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v0.6
+- Added Carry Weight ench. to Willow's leather backpack
 ### v0.5
 - Fixed conflicts with Uncut Wasteland & Character Expansions Revised
 - v0.51: Added Mojave Raiders
