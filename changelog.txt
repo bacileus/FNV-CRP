@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v0.02
+    - Completed Armor section
+
 ### v0.01
     - Initial commit
     - Fixed conflicts from Bugfixes & Tweaks sections
