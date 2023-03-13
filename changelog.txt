@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v0.12
+    - Added Rough Nite Replacer
+
 ### v0.11
     - Solved conflicts between More Modest Type 4 Body and Armor, YUP & Sleeved Combat Armor
 
