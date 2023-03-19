@@ -1,5 +1,9 @@
 # FNV-CRP
 ## Changelog
+### v0.20
+    - Solved armor conflicts of T4 and JSUE
+    - Fixed some weapon changes not covered by patch from WRP and JSUE
+
 ### v0.13
     - Raised DNW Mojave Imagespace Skin Dimmer
 
