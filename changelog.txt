@@ -1,5 +1,9 @@
 # FNV-CRP
 ## Changelog
+### v0.22
+    - Forwarded DNW changes overwritten by Opposite Traits
+    - Fixed GRA Weapons Relocated YUP override
+
 ### v0.21
     - Restored original weapon degradation rate
 
