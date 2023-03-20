@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v0.21
+    - Restored original weapon degradation rate
+
 ### v0.20
     - Solved armor conflicts of T4 and JSUE
     - Fixed some weapon changes not covered by patch from WRP and JSUE
