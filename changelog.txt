@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v0.32
+    - Forwarded one edit from TLD
+
 ### v0.31
     - Conflict resolution of edits from Mojave Raiders mods
 
