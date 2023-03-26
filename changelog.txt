@@ -1,26 +1,10 @@
 # FNV-CRP
 ## Changelog
+### v0.31
+    - Conflict resolution of edits from Mojave Raiders mods
+
 ### v0.30
     - Solved conflicts of Enhanced Landscapes, Enhanced Vegas Ruins & UW
-    - Modified FormIDs:
-        * 0008E1E6  | Dialog Topic
-        * 000CD3E2
-        * 000CD3E3
-        * 000E6654  | Non-Player Character
-        * 000FE1C7
-        * 000FE89C
-        * 000FED42
-        * 0010C6DD
-        * 001194D7
-        * 0011986C
-        * 0011CD48
-        * 0013E4D7
-        * 0014EFB2
-        * 00130B51  | Worldspace
-        * 00130B52
-        * 000DAF09
-        * 000DAF0A
-        * 0012A914
 
 ### v0.22
     - Forwarded DNW changes overwritten by Opposite Traits
