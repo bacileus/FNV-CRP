@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v0.34
+    - Solved Willow conflicts
+
 ### v0.33
     - Forwarded DNW changes overwritten by Simple Populated Freeside
 
