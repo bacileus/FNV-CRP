@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v0.40
+    - Forwarded YUP changes into Better NCR Supply Cache
+
 ### v0.34
     - Solved Willow conflicts
 
