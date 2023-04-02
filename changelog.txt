@@ -1,7 +1,11 @@
 # FNV-CRP
 ## Changelog
+### v.52
+    - Fixed 1 missing edit to Power Rangers from Vanilla Enhancements
+    - Forwarded YUP NPC fixes getting overriden by Mojave Raiders
+
 ### v.51
-    - Removed Asterra's Many Fixes
+    - Removed some Asterra's Many Fixes edits
 
 ### v0.50
     - Made Willow's race unplayable
