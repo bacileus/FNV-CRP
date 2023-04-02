@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v.51
+    - Removed Asterra's Many Fixes
+
 ### v0.50
     - Made Willow's race unplayable
     - Added carry weight enchantment to Leather Backpack
