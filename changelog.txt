@@ -1,10 +1,13 @@
 # FNV-CRP
 ## Changelog
-### v.52
+### v0.53
+    - Solved 1 Tomahawk minor WMIM conflict
+
+### v0.52
     - Fixed 1 missing edit to Power Rangers from Vanilla Enhancements
     - Forwarded YUP NPC fixes getting overriden by Mojave Raiders
 
-### v.51
+### v0.51
     - Removed some Asterra's Many Fixes edits
 
 ### v0.50
