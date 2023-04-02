@@ -1,5 +1,9 @@
 # FNV-CRP
 ## Changelog
+### v0.50
+    - Made Willow's race unplayable
+    - Added carry weight enchantment to Leather Backpack
+
 ### v0.40
     - Forwarded YUP changes into Better NCR Supply Cache
 
