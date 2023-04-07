@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v0.60
+    - Added MTB & Willow's Bungalow to Comprehensive Respawn safe cells
+
 ### v0.54
     - Modified some T4-plugin edits
 
