@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v0.61
+    - Added GRA Weapons Relocated to unique items list of Comprehensive Respawn
+
 ### v0.60
     - Added MTB & Willow's Bungalow to Comprehensive Respawn safe cells
 
