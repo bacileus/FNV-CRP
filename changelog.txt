@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v0.62
+    - Added less glowing Willow hair
+
 ### v0.61
     - Added GRA Weapons Relocated to unique items list of Comprehensive Respawn
 
