@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v0.63
+    - Created custom character preset
+
 ### v0.62
     - Added less glowing Willow hair
 
