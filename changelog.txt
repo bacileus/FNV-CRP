@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v0.64
+    - Added portable tent's interior to Comprehensive Respawn safe cells
+
 ### v0.63
     - Created custom character preset
 
