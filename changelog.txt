@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v0.65
+    - Updated DNWeathers to latest version
+
 ### v0.64
     - Added portable tent's interior to Comprehensive Respawn safe cells
 
