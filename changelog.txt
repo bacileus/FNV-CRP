@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v0.67
+    - Removed GRA Weapons Relocated changes
+
 ### v0.66
     - Updated character preset
 
