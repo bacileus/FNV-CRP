@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v0.12
+    - Removed unnecessary meta.ini files from archives.
+    - Patched SMIM, Type4 & More Modest Type4.
 ### v0.11
     - Added Tribal Fixes - YUP ESP Replacer.
 ### v0.1
