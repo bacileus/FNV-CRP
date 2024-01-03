@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v0.13
+    - Added Rough Nite Transparency Fix - Replacer.
+    - 0002B137: Changed record so that the hair loads properly.
 ### v0.12
     - Removed unnecessary meta.ini files from archives.
     - Patched SMIM, Type4 & More Modest Type4.
