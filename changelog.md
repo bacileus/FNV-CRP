@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v0.11
+    - Added Tribal Fixes - YUP ESP Replacer.
 ### v0.1
     - Added custom WMIM & Character Expansions Revised (YUP) ESP replacers.
 ### v0.03
