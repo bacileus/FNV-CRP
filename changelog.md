@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v0.23
+    - Forwarded Essential DLC Enchancements changes.
 ### v0.22
     - Forced SMIM to use vanilla meshes that Type4 replaces.
 ### v0.21
