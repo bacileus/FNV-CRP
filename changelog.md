@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v0.14
+    - Updated Rough Nite Transparency Fix - Replacer.
 ### v0.13
     - Added Rough Nite Transparency Fix - Replacer.
     - 0002B137: Changed record so that the hair loads properly.
