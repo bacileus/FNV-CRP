@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v0.22
+    - Forced SMIM to use vanilla meshes that Type4 replaces.
 ### v0.21
     - Cleaned unnecessary tweaks.
 ### v0.20
