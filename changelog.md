@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v0.32
+    - More minor NPC forwards.
 ### v0.31
     - Fixed minor NPC patch conflict.
 ### v0.3
