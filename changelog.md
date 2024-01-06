@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v0.33
+    - Forwarded one conflicting cell between UW and The Living Desert.
 ### v0.32
     - More minor NPC forwards.
 ### v0.31
