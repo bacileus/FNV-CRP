@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v0.20
+    - Fixed JSUE conflicts with armor (SMIM, Book of Steel, Type4 bodies & Combat Armor Sleeves).
+    - Fixed JSUE weapon conflicts with WMIM.
 ### v0.14
     - Updated Rough Nite Transparency Fix - Replacer.
 ### v0.13
