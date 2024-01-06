@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v0.3
+    - Vault13 Canteen copied into CRP to avoid overriding.
 ### v0.23
     - Forwarded Essential DLC Enchancements changes.
 ### v0.22
