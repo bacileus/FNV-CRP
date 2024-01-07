@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v0.34
+    - Fix conflict in Legate Armor between FPGE and Type4.
+    - Removed outdated Character Expansions Revised YUP Patch.
 ### v0.33
     - Forwarded one conflicting cell between UW and The Living Desert.
 ### v0.32
