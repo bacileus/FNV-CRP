@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v0.4
+    - Begin revision process.
+    - Forwarded one T4 armor model (SierraMadreArmorReinforced). 
 ### v0.35
     - Removed FPGE not needed edits.
 ### v0.34
