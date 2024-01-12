@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v0.35
+    - Removed FPGE not needed edits.
 ### v0.34
     - Fix conflict in Legate Armor between FPGE and Type4.
     - Removed outdated Character Expansions Revised YUP Patch.
