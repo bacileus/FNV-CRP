@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v0.43
+    - Added Reinforced Combat Armor With Gloves edits.
 ### v0.42
     - Copied some YUP cell changes overriden by LSO, Windows of the Mojave & No Dust Lucky38.
 ### v0.41
