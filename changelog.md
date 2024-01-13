@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v0.42
+    - Copied some YUP cell changes overriden by LSO, Windows of the Mojave & No Dust Lucky38.
 ### v0.41
     - Forwarded Ultra Luxe's cell record.
 ### v0.4
