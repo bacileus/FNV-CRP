@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v0.41
+    - Forwarded Ultra Luxe's cell record.
 ### v0.4
     - Begin revision process.
     - Forwarded one T4 armor model (SierraMadreArmorReinforced). 
