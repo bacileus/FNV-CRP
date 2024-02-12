@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v0.50
+    - Updated SMIM's CRP edits.
+    - Forwarded some YUP NPC edits.
 ### v0.43
     - Added Reinforced Combat Armor With Gloves edits.
 ### v0.42
