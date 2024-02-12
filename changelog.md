@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v0.51
+    - Forwarded YUP edits overriden by Vanilla Enhancements.
+    - Forwarded more YUP cell/worldspace edits. 
 ### v0.50
     - Updated SMIM's CRP edits.
     - Forwarded some YUP NPC edits.
