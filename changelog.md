@@ -1,5 +1,9 @@
 # FNV-CRP
 ## Changelog
+### v0.52
+    - Forwarded one YUP Ultra-Luxe furniture edit.
+    - Forwarded Home & Safehouse Tweaks.
+    - Forwarded YUP changes to Shutup DLC Companions & Top Level Cass Dialogue Overhaul.
 ### v0.51
     - Forwarded YUP edits overriden by Vanilla Enhancements.
     - Forwarded more YUP cell/worldspace edits. 
