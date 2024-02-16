@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v0.53
+    - Removed unnecessary edits.
 ### v0.52
     - Forwarded one YUP Ultra-Luxe furniture edit.
     - Forwarded Home & Safehouse Tweaks.
