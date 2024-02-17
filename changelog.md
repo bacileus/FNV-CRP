@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v0.54
+    - Forwarded one T4 armor model.
+    - Solved a couple of conflicts of JSUE.
 ### v0.53
     - Removed unnecessary edits.
 ### v0.52
