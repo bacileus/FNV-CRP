@@ -1,5 +1,9 @@
 # FNV-CRP
 ## Changelog
+### v0.55
+    - Configured safe cells of Chill Companions & Comprehensive Item Cleanup.
+    - Made Willow's race non-playable.
+    - Added Carry Weight enchantment to Willow's Leather Backpack.
 ### v0.54
     - Forwarded one T4 armor model.
     - Solved a couple of conflicts of JSUE.
