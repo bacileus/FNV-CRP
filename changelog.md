@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v1.0
+    - Patch now playable.
+    - Added Armor Helmet Transparency Fixes.
 ### v0.55
     - Configured safe cells of Chill Companions & Comprehensive Item Cleanup.
     - Made Willow's race non-playable.
