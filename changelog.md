@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v1.02
+    - Removed Modulate Voice flag from all radiation suits due to audio issues.
 ### v1.01
     - Removed Lucky Shades edit now redundant with Lucky Authority Glasses ESPLess.
 ### v1.0
