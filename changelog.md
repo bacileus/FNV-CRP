@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v1.01
+    - Removed Lucky Shades edit now redundant with Lucky Authority Glasses ESPLess.
 ### v1.0
     - Patch now playable.
     - Added Armor Helmet Transparency Fixes.
