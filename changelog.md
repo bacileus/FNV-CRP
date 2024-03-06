@@ -1,5 +1,7 @@
 # FNV-CRP
 ## Changelog
+### v1.1
+    - Updated Armor section due to SMIM update.
 ### v1.02
     - Removed Modulate Voice flag from all radiation suits due to audio issues.
 ### v1.01
