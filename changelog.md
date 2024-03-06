@@ -1,5 +1,8 @@
 # FNV-CRP
 ## Changelog
+### v1.11
+    - Minor edits to already existing records.
+    - Removed one unnecessary mesh from Armor Helmet Transparency Fixes.
 ### v1.1
     - Updated Armor section due to SMIM update.
 ### v1.02
